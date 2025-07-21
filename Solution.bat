@@ -1,0 +1,1 @@
+"C:\T270\SmartFix_T270\App_Data\Projects\PhoneRepairShop\PhoneRepairShop_code.sln"
